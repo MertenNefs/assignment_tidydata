@@ -1,4 +1,4 @@
-## Run Analysis
+## Run Analysis CodeBook
 Data file: tidyData.txt
 Data describes the average values of measuerements for 30 subjects and 6 activities
 Training and test data are combined in one dataset
